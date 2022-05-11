@@ -1,0 +1,22 @@
+{
+  "name": "djsplugin",
+  "version": "0.0.1",
+  "description": "A personal plugin to automate some things on my Discord servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaamess/djsplugin.git"
+  },
+  "author": "Thiago A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaamess/djsplugin/issues"
+  },
+  "homepage": "https://github.com/jaamess/djsplugin#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
