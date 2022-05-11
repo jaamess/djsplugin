@@ -2,7 +2,8 @@
   "name": "djsplugin",
   "version": "0.0.1",
   "description": "A personal plugin to automate some things on my Discord servers.",
-  "main": "index.js",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/jaamess/djsplugin#readme",
   "dependencies": {
+    "@sapphire/framework": "^3.0.0-next.8803fa8.0",
     "discord.js": "^13.6.0"
   }
 }
